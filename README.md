@@ -1,10 +1,10 @@
-## [Jnext React Kit - Admin Dashboard]
+## Jnext React Kit - Admin Dashboard
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-[![React Material Dashboard]
+React Material Dashboard
 
-> Free React Dashboard made with Material UI's components, [React](https://reactjs.org/?ref=jnext) and of course [create-react-app](https://facebook.github.io/create-react-app/?ref=jnext) to boost your app development process! We'll launch a pro version soon, so if you are interested subscribe to our personal emailing list on [https://devias.io/](https://jnext.co.in/)
+> Free React Dashboard made with Material UI's components, [React](https://reactjs.org/?ref=jnext) and of course [create-react-app](https://facebook.github.io/create-react-app/?ref=jnext) to boost your app development process! We'll launch a pro version soon, so if you are interested subscribe to our personal emailing list on [https://jnext.co.in/](https://jnext.co.in/)
                                  
 ## Demo
 
